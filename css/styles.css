@@ -1,0 +1,54 @@
+
+  body{
+  /*background-color: #000000;*/
+  background-image: url(../images/sky.jpg);
+  background-size:cover;
+  }
+  p{
+    font-weight: 900;
+  }
+
+hr{
+  width:50px;
+  border-style:inherit;
+  border-top-style:dashed;
+  border-color:#e6e2d3;
+  border-width:4px;
+}
+h1{
+  color: #000000;
+}
+h3{
+  color: #000000;
+}
+p{
+  color: #000000;
+}
+table{
+  color: #000000;
+}
+
+ol{
+    color: #000000;
+}
+
+ul{
+    color: #000000;
+}
+label{
+    color: #000000;
+}
+li{
+  color: #000000;
+
+  font-style: italic;
+  font-weight:1000;
+}
+
+th{
+  font-weight: 900;
+}
+
+td{
+  font-weight: 900;
+}
